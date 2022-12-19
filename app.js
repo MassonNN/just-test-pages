@@ -5,8 +5,6 @@ tg.expand();
 tg.MainButton.textColor = "#FFFFFF";
 tg.MainButton.color = "#FF00FF";
 
-let item = "";
-
 let btn = document.getElementById("btn");
 
 btn.addEventListener("click", function(){
